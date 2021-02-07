@@ -10,12 +10,22 @@ I'm Python backend developer.
   
 
 💬 Projects:
-  - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
-    * reads statistics data from devices
-  - :pear: [Demo FastAPI](https://damp-taiga-86519.herokuapp.com/) (deploy on Heroku). 
+  - :snowboarder: [K2 Meteo](https://github.com/Pshowo/02_K2Meteo.git) [Python]
+    * Recording and display current weather and forecast on K2 mountain. https://openweathermap.org/api
+  - :mahjong: [Matrix calulator](https://github.com/Pshowo/Numeric-Matrix-Processor) [Python]
+    * inverse, determined, transpose, Matrix by matrix multiplication, ultiplication by number, addition
   - :coffee: [Coffee Machine Simulator](https://repl.it/@Pshowo/Coffeemachine) [C++ ]
   
-📫 [website]: 
+  
+:globe_with_meridians: [website]: 
+  - :newspaper: [The News portal (Django)](https://django-news-portal.herokuapp.com/) (deploy on Heroku).
+    * Adding and display the news 
+  - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
+    * reads and display statistics data from devices
+  - :pear: [Guacamole recipes (FastAPI)](https://damp-taiga-86519.herokuapp.com/) (deploy on Heroku).
+    * api to reading and adding guacamole recipes  
+
+
 ⚡ [linkedin]():
 
 😄 Games: [CheckiO](https://py.checkio.org/user/Pshowo/)
