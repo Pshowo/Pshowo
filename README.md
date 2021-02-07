@@ -12,7 +12,8 @@ I'm Python backend developer.
 💬 Projects:
   - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
     * reads statistics data from devices
-  - :link: [Demo FastAPI](https://damp-taiga-86519.herokuapp.com/) (deploy on Heroku). 
+  - :pear: [Demo FastAPI](https://damp-taiga-86519.herokuapp.com/) (deploy on Heroku). 
+  - :coffee: [Coffee Machine Simulator](https://repl.it/@Pshowo/Coffeemachine) [C++ ]
   
 📫 [website]: 
 ⚡ [linkedin]():
