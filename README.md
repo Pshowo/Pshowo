@@ -15,6 +15,8 @@ I'm Python backend developer.
   - :mahjong: [Matrix calulator](https://github.com/Pshowo/Numeric-Matrix-Processor) [Python]
     * inverse, determined, transpose, Matrix by matrix multiplication, ultiplication by number, addition
   - :coffee: [Coffee Machine Simulator](https://repl.it/@Pshowo/Coffeemachine) [C++ ]
+  - :door: [Password hacker]() [Python]
+    * Connecting to a server using the socket module
   
   
 :globe_with_meridians: [website]: 
