@@ -17,7 +17,9 @@ I'm Python backend developer.
   - :coffee: [Coffee Machine Simulator](https://repl.it/@Pshowo/Coffeemachine) [C++ ]
   - :door: [Password hacker]() [Python]
     * Connecting to a server using the socket module
-  
+  - :zzz: [My Regex Engine](https://repl.it/@Pshowo/MyRegexEngine) [Python]
+    * Extendable regex engine that can handle basic regex syntax.  including literals (a, b, c, etc.), wild-cards (.), and metacharacters (?, *, +, ^, $).  
+  - :tram: [Controls bus timetable](https://github.com/Pshowo/easy-rider-bus-company)
   
 :globe_with_meridians: [website]: 
   - :newspaper: [The News portal (Django)](https://django-news-portal.herokuapp.com/) (deploy on Heroku).
