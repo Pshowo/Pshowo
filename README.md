@@ -26,7 +26,7 @@ I'm Python backend developer.
     * Adding and display the news 
   - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
     * reads and display statistics data from devices
-  - :pear: [Guacamole recipes (FastAPI)](https://damp-taiga-86519.herokuapp.com/) (deploy on Heroku).
+  - :pear: [Guacamole recipes (FastAPI)](https://damp-taiga-86519.herokuapp.com/v1/recipes) (deploy on Heroku).
     * api to reading and adding guacamole recipes  
 
 
