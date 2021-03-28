@@ -25,7 +25,7 @@ I'm Python backend developer.
   
 :globe_with_meridians: Website Projects:
   - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
-    * reads and display statistics data from devices
+    * reads and display statistics data from devices, hint: "admin, admin".
   - :pear: [Guacamole recipes (FastAPI)](https://damp-taiga-86519.herokuapp.com/v1/recipes) (deploy on Heroku).
     * api to reading and adding guacamole recipes  
   - :newspaper: [The News portal (Django)](https://django-news-portal.herokuapp.com/) (deploy on Heroku).
