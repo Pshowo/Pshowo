@@ -13,7 +13,9 @@ I'm Python backend developer.
   - :zzz: [My Regex Engine](https://github.com/Pshowo/my-regex-engine) [Python]
     * Extendable regex engine that can handle basic regex syntax.  including literals (a, b, c, etc.), wild-cards (.), and metacharacters (?, *, +, ^, $).  
   - :tram: [Controls bus timetable](https://github.com/Pshowo/easy-rider-bus-company)
-  - :x: :o: [Tic Tac Toe](https://github.com/Pshowo/Tic_Tac_Toe/tree/oop) with AI (minimax algorithm)
+    * Script to check data compatibility with Database specification.
+  - :x: :o: [Tic Tac Toe](https://github.com/Pshowo/Tic_Tac_Toe/tree/oop) 
+    * Game with AI (minimax)
   - :snowboarder: [K2 Meteo](https://github.com/Pshowo/02_K2Meteo.git) [Python]
     * Recording and display current weather and forecast on K2 mountain. https://openweathermap.org/api
   - :mahjong: [Matrix calulator](https://github.com/Pshowo/Numeric-Matrix-Processor) [Python]
@@ -22,6 +24,7 @@ I'm Python backend developer.
   - :door: [Password hacker](https://github.com/Pshowo/password-hacker) [Python]
     * Connecting to a server using the socket module
   - :computer: [TCP Scanner](https://github.com/Pshowo/tcp-scanner) [Python]
+    * Tools to find devices on the network.
    
   
 :globe_with_meridians: Website Projects:
