@@ -20,6 +20,7 @@ I'm Python backend developer.
   - :zzz: [My Regex Engine](https://repl.it/@Pshowo/MyRegexEngine) [Python]
     * Extendable regex engine that can handle basic regex syntax.  including literals (a, b, c, etc.), wild-cards (.), and metacharacters (?, *, +, ^, $).  
   - :tram: [Controls bus timetable](https://github.com/Pshowo/easy-rider-bus-company)
+  - :x: :o: [Tic Tac Toe](!https://github.com/Pshowo/Tic_Tac_Toe/tree/oop) with AI (minimax algorithm) 
   
 :globe_with_meridians: Website Projects:
   - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
