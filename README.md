@@ -34,9 +34,3 @@ I'm Python backend developer.
     * api to reading and adding guacamole recipes, docs [here](https://damp-taiga-86519.herokuapp.com/docs)
   - :newspaper: [The News portal (Django)](https://django-news-portal.herokuapp.com/) (deploy on Heroku).
     * Adding and display the news 
-
-
-⚡ [linkedin]():
-
-
-
