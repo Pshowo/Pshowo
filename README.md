@@ -28,7 +28,7 @@ I'm Python backend developer.
    
   
 :globe_with_meridians: Website Projects:
-  - :black_nib: [Version menager](http://34.255.216.69:3002/) (deploy EC2 on AWS)
+  - :black_nib: [Version menager](http://34.255.216.69:4003/) (deploy EC2 on AWS)
     * keeps versions descriptions for particular programs and generates word file for major version, login: demo, pass: demo
   - :snowflake: [Dash Plot ](http://pshowo.pythonanywhere.com/) (deploy on Pythonanywere).
     * reads and display statistics data from devices, hint: "admin, admin".
